@@ -2,6 +2,7 @@
 # @module    button_utils
 # @brief     Basic Buttons
 # @version   1.0
+# @author    Jamie
 ##
 
 import gui
