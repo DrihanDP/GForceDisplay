@@ -2,6 +2,7 @@
 # @module    picture_button
 # @brief     Button object with a picture
 # @version   1.1
+# @author    Jamie
 ##
 
 import gui

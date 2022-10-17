@@ -2,6 +2,7 @@
 # @module    image
 # @brief     Image object
 # @version   1.0
+# @author    Jamie
 #
 
 import ft8xx as ft
