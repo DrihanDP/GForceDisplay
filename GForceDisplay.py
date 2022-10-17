@@ -3,6 +3,8 @@
 # acceleration data to update ~0.3seconds
 # speed data to update ~0.1seconds
 
+# Author: Drihan du Preez #
+
 import gui
 import vts
 import gnss
